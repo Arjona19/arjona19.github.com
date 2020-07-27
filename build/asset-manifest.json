@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/dev-loopers/static/css/main.fb3f5237.chunk.css",
+    "main.js": "/dev-loopers/static/js/main.2c3ef41b.chunk.js",
+    "main.js.map": "/dev-loopers/static/js/main.2c3ef41b.chunk.js.map",
+    "runtime-main.js": "/dev-loopers/static/js/runtime-main.54e8e998.js",
+    "runtime-main.js.map": "/dev-loopers/static/js/runtime-main.54e8e998.js.map",
+    "static/js/2.f446eb76.chunk.js": "/dev-loopers/static/js/2.f446eb76.chunk.js",
+    "static/js/2.f446eb76.chunk.js.map": "/dev-loopers/static/js/2.f446eb76.chunk.js.map",
+    "index.html": "/dev-loopers/index.html",
+    "precache-manifest.71b4e453b07b6e620aa83a7fe74609e3.js": "/dev-loopers/precache-manifest.71b4e453b07b6e620aa83a7fe74609e3.js",
+    "service-worker.js": "/dev-loopers/service-worker.js",
+    "static/css/main.fb3f5237.chunk.css.map": "/dev-loopers/static/css/main.fb3f5237.chunk.css.map",
+    "static/js/2.f446eb76.chunk.js.LICENSE.txt": "/dev-loopers/static/js/2.f446eb76.chunk.js.LICENSE.txt",
+    "static/js/main.2c3ef41b.chunk.js.LICENSE.txt": "/dev-loopers/static/js/main.2c3ef41b.chunk.js.LICENSE.txt",
+    "static/media/argon-react.png": "/dev-loopers/static/media/argon-react.f38ddea9.png",
+    "static/media/dev-loopers.png": "/dev-loopers/static/media/dev-loopers.a84ffccf.png",
+    "static/media/font-awesome.min.css": "/dev-loopers/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/github.svg": "/dev-loopers/static/media/github.4ffd4fe7.svg",
+    "static/media/google.svg": "/dev-loopers/static/media/google.87be59a1.svg",
+    "static/media/ill-2.svg": "/dev-loopers/static/media/ill-2.594b1ee1.svg",
+    "static/media/img-1-1200x1000.jpg": "/dev-loopers/static/media/img-1-1200x1000.1e7c70dc.jpg",
+    "static/media/img-2-1200x1000.jpg": "/dev-loopers/static/media/img-2-1200x1000.ba449a06.jpg",
+    "static/media/landing.jpg": "/dev-loopers/static/media/landing.0ec26478.jpg",
+    "static/media/nucleo.css": "/dev-loopers/static/media/nucleo-icons.f82ec6ba.ttf",
+    "static/media/profile.jpg": "/dev-loopers/static/media/profile.278a0d25.jpg",
+    "static/media/promo-1.png": "/dev-loopers/static/media/promo-1.75f7ab18.png",
+    "static/media/team-1-800x800.jpg": "/dev-loopers/static/media/team-1-800x800.53033970.jpg",
+    "static/media/team-2-800x800.jpg": "/dev-loopers/static/media/team-2-800x800.dcfcf3b7.jpg",
+    "static/media/team-3-800x800.jpg": "/dev-loopers/static/media/team-3-800x800.497bb359.jpg",
+    "static/media/team-4-800x800.jpg": "/dev-loopers/static/media/team-4-800x800.23007132.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54e8e998.js",
+    "static/js/2.f446eb76.chunk.js",
+    "static/css/main.fb3f5237.chunk.css",
+    "static/js/main.2c3ef41b.chunk.js"
+  ]
+}
